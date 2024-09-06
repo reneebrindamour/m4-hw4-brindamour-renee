@@ -41,7 +41,7 @@ h1, h2, h3, p, li, figcaption {
 }
 
 footer {
-    background-color:black;
+    background-color:#333;
     color: #e62760;
     padding: 35px 35px 35px 35px;
 }
